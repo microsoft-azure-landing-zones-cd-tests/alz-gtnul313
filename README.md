@@ -1,2 +1,3 @@
-# alz-gtnul313
-alz-gtnul313
+# Test Module
+
+This module is used for testing the bootstrapping without needing a clean tenant.
